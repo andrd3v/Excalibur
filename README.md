@@ -7,6 +7,14 @@ compile project
 make package
 ```
 
+
+## Overview
+
+Here is Excalibur in action:
+
+| ![Screenshot 1](https://github.com/andrd3v/Excalibur/blob/main/1.PNG) | ![Screenshot 2](https://github.com/andrd3v/Excalibur/blob/main/2.PNG) |
+|---|---|
+
 ## Contributing
 
 Pull requests are welcome.
