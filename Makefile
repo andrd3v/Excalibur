@@ -22,7 +22,7 @@ Excalibur_CCFLAGS += -DNOTIFY_DISMISSAL_HUD=\"ch.xxtou.notification.hud.dismissa
 Excalibur_CCFLAGS += -DNOTIFY_RELOAD_HUD=\"ch.xxtou.notification.hud.reload\"
 Excalibur_CCFLAGS += -DNOTIFY_RELOAD_APP=\"ch.xxtou.notification.app.reload\"
 MainApplication.mm_CCFLAGS += -std=c++14
-Excalibur_FRAMEWORKS += CoreGraphics QuartzCore UIKit
+Excalibur_FRAMEWORKS += CoreGraphics QuartzCore UIKit Foundation
 Excalibur_PRIVATE_FRAMEWORKS += BackBoardServices GraphicsServices IOKit SpringBoardServices
 
 
